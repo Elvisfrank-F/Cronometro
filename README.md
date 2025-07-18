@@ -19,15 +19,19 @@ Este projeto consiste em criar uma aplicativo mobile, que seja capaz de suportar
 - É possível nomear cada cronômetro novo
 - É possível Adicionar e excluir cada cronômetro
 
-## aplicativo
+## Crie multiplos cronômetros
 
 <img src = "app/assets/pg.gif" width='250'>
 
 ---
 
+## Nomeie cada um
+
 <img src = "app/assets/pg_meio.gif" width='250'>
 
 ---
+
+## Ideal para aquele dia corrido
 
 <img src = "app/assets/pg_final.gif" width='250'>
 
