@@ -5,7 +5,7 @@ Este projeto consiste em criar uma aplicativo mobile, que seja capaz de suportar
 ## Apresentação
 
 <p align="center">
-  <strong>Inicialmente</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Inicialmente</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <strong>Agora</strong><br><br>
   <img src="app/assets/pa_antigo.png" width="250"/>
  &nbsp;&nbsp;&nbsp;
