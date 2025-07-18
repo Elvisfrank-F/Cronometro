@@ -7,9 +7,9 @@ Este projeto consiste em criar uma aplicativo mobile, que seja capaz de suportar
 <p align="center">
   <strong>Inicialmente</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>
   <strong>Agora</strong><br><br>
-  <img src="app/pa_antigo.png" width="250"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="app/pa.png" width="250"/>
+  <img src="app/assets/pa_antigo.png" width="250"/>
+ &nbsp;&nbsp;&nbsp;
+  <img src="app/assets/pa.png" width="250"/>
 </p>
 
 
