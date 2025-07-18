@@ -47,4 +47,4 @@ Este projeto consiste em criar uma aplicativo mobile, que seja capaz de suportar
 
 ## sobre mim
 
--Sou técnico de informática formado pela unicorp, e também sou técnico de eletroeletrônica formado pelo IFCE, sonho em trabalhar com programação, principalmente voltado para área de desenvolvimento mobile, IoT e robótica. Atualmente tenho 20 anos e trabalho como auxiliar de manuntenção de geradores, uma boa área, mas não a minha área, estou estudando para obter oportunidades no ramo da programação.
+-Estou finalizando o técnico de informática pela unicorp, e também sou técnico de eletroeletrônica formado pelo IFCE, sonho em trabalhar com programação, principalmente voltado para área de desenvolvimento mobile, IoT e robótica. Atualmente (17/07/2025) tenho 20 anos e trabalho como auxiliar de manuntenção de geradores, uma boa área, mas não a minha área, estou estudando para obter oportunidades no ramo da programação. Irei registrar em meus projetos a cada nova atualização, a minha evolução.
