@@ -2,10 +2,10 @@
 
 Este projeto consiste em criar uma aplicativo mobile, que seja capaz de suportar multiplos cronômetros e temporizadores.
 
-#Apresentação
+## Apresentação
 
 <p align="center">
-  <strong>Inicialmente</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>
+  <strong>Inicialmente</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <strong>Agora</strong><br><br>
   <img src="app/assets/pa_antigo.png" width="250"/>
  &nbsp;&nbsp;&nbsp;
@@ -19,9 +19,20 @@ Este projeto consiste em criar uma aplicativo mobile, que seja capaz de suportar
 - É possível nomear cada cronômetro novo
 - É possível Adicionar e excluir cada cronômetro
 
+## aplicativo
+
+<img src = "app/assets/pg.gif" width='250'>
+
+---
+
+<img src = "app/assets/pg_meio.gif" width='250'>
+
+---
+
+<img src = "app/assets/pg_final.gif" width='250'>
+
+
 ## em desenvolvimento
 
 - BottomBar navigation
 - Temporizadores com funções semelhantes aos dos cronômetros citados acima
-
--implementar parenteses em tempo de edição
